@@ -1,0 +1,16 @@
+{
+  "id": "jecj1qo8",
+  "sym": "RDTE",
+  "kind": "paycheck",
+  "params": {
+    "amt": 250000
+  },
+  "yield": 20,
+  "tr": 40,
+  "decay": "YES",
+  "images": 1,
+  "text": "$RDTE: $250,000 could pay you about $962 every single week\n\nThat's $50,000 a year at today's 20% yield\n\nYields change and aren't guaranteed\n\nIs it in your weekly lineup? 👇",
+  "link": false,
+  "post_at": "2026-09-28T01:00:00.000Z",
+  "created_at": "2026-09-26T23:21:18.129Z"
+}
