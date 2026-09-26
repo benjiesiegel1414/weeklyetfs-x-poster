@@ -33,6 +33,7 @@ MAX_ATTEMPTS = 3
 TOO_LATE = timedelta(hours=24)      # a post this late is moved to failed/ instead of going out
 MAX_PER_RUN = 4                     # never burst more than this in one run
 GAP_SECONDS = 20                    # pause between posts in the same run
+EARLY = timedelta(minutes=3)        # posts due within this window go now (covers "Post now" and small clock differences)
 
 
 def now():
@@ -144,7 +145,7 @@ def main():
         try:
             with open(path) as fh:
                 rec = json.load(fh)
-            if parse_time(rec["post_at"]) <= now():
+            if parse_time(rec["post_at"]) <= now() + EARLY:
                 due.append((path, rec))
         except Exception as e:
             print(f"Skipping unreadable {path}: {e}")
