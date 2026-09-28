@@ -1,0 +1,16 @@
+{
+  "id": "zaddzzky",
+  "sym": "TDAX",
+  "kind": "paycheck",
+  "params": {
+    "amt": 100000
+  },
+  "yield": 24,
+  "tr": 18,
+  "decay": "NO",
+  "images": 1,
+  "text": "$TDAX 👇\n\n$100,000 invested\n$462 every week\n$2,000 a month\n\nBased on its current 24% yield\n\nYields change and aren't guaranteed\n\nWould you buy it? 👇",
+  "link": false,
+  "post_at": "2026-09-28T12:00:00.000Z",
+  "created_at": "2026-09-28T00:19:49.828Z"
+}

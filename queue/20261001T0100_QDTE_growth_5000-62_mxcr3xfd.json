@@ -1,0 +1,16 @@
+{
+  "id": "mxcr3xfd",
+  "sym": "QDTE",
+  "kind": "growth",
+  "params": {
+    "amt": 5000
+  },
+  "yield": 20,
+  "tr": 62,
+  "decay": "YES",
+  "images": 1,
+  "text": "$QDTE: put $5,000 in on day one and you'd have about $8,100 now\n\nTotal return since launch: +62%\nCurrent yield: 20%\n\nPast returns don't guarantee future results",
+  "link": false,
+  "post_at": "2026-10-01T01:00:00.000Z",
+  "created_at": "2026-09-28T00:19:49.832Z"
+}

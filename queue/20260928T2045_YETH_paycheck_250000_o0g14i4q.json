@@ -1,0 +1,16 @@
+{
+  "id": "o0g14i4q",
+  "sym": "YETH",
+  "kind": "paycheck",
+  "params": {
+    "amt": 250000
+  },
+  "yield": 39,
+  "tr": -28,
+  "decay": "YES",
+  "images": 1,
+  "text": "$YETH 👇\n\n$250,000 invested\n$1,875 every week\n$8,125 a month\n\nBased on its current 39% yield\n\nYields change and aren't guaranteed\n\nHow much do you own? 👇",
+  "link": false,
+  "post_at": "2026-09-28T20:45:00.000Z",
+  "created_at": "2026-09-28T00:19:49.829Z"
+}

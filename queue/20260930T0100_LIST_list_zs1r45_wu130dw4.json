@@ -1,0 +1,40 @@
+{
+  "id": "wu130dw4",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "watch",
+    "syms": [
+      "COIW",
+      "AIYY",
+      "CONY",
+      "TSLY",
+      "YMAX",
+      "PLTY",
+      "BLOX",
+      "YMAG",
+      "TDAX",
+      "ODTE"
+    ]
+  },
+  "syms": [
+    "COIW",
+    "AIYY",
+    "CONY",
+    "TSLY",
+    "YMAX",
+    "PLTY",
+    "BLOX",
+    "YMAG",
+    "TDAX",
+    "ODTE"
+  ],
+  "yield": 88,
+  "tr": -38,
+  "decay": "YES",
+  "images": 1,
+  "text": "Top Weekly ETFs worth watching 👇\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-09-30T01:00:00.000Z",
+  "created_at": "2026-09-28T00:19:49.831Z"
+}
