@@ -1,0 +1,19 @@
+{
+  "id": "3f6pcoi9",
+  "sym": "CONY",
+  "kind": "paycheck",
+  "params": {
+    "amt": 250000
+  },
+  "yield": 66,
+  "tr": 52,
+  "decay": "YES",
+  "images": 1,
+  "text": "$CONY \ud83d\udc47\n\n$250,000 invested\n$3,173 every week\n$13,750 a month\n\nBased on its current 66% yield\n\nYields change and aren't guaranteed\n\nHow much do you own? \ud83d\udc47",
+  "link": false,
+  "post_at": "2026-10-01T20:30:00.000Z",
+  "created_at": "2026-10-01T00:17:07.804Z",
+  "tweet_id": "2105757269509939655",
+  "url": "https://x.com/WeeklyETFs/status/2105757269509939655",
+  "posted_at": "2026-10-01T20:30:31.113346+00:00"
+}
