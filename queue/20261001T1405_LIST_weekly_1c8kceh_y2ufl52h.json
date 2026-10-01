@@ -1,0 +1,40 @@
+{
+  "id": "y2ufl52h",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "weekly",
+    "syms": [
+      "CONY",
+      "TSLY",
+      "YMAG",
+      "NVDY",
+      "QQQY",
+      "XBTY",
+      "TDAX",
+      "QDTE",
+      "TSYX",
+      "XDTE"
+    ]
+  },
+  "syms": [
+    "CONY",
+    "TSLY",
+    "YMAG",
+    "NVDY",
+    "QQQY",
+    "XBTY",
+    "TDAX",
+    "QDTE",
+    "TSYX",
+    "XDTE"
+  ],
+  "yield": 66,
+  "tr": 52,
+  "decay": "YES",
+  "images": 1,
+  "text": "What $10,000 pays you every single week 👇\n\n1. $CONY $127/wk\n2. TSLY $108/wk\n3. YMAG $69/wk\n4. NVDY $69/wk\n5. QQQY $58/wk\n6. XBTY $58/wk\n7. TDAX $46/wk\n8. QDTE $38/wk\n9. TSYX $38/wk\n10. XDTE $29/wk\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-10-01T14:05:00.000Z",
+  "created_at": "2026-10-01T00:17:07.804Z"
+}

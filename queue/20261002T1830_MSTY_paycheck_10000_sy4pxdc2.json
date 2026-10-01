@@ -1,0 +1,16 @@
+{
+  "id": "sy4pxdc2",
+  "sym": "MSTY",
+  "kind": "paycheck",
+  "params": {
+    "amt": 10000
+  },
+  "yield": 100,
+  "tr": 86,
+  "decay": "YES",
+  "images": 1,
+  "text": "$MSTY 👇\n\n$10,000 invested\n$192 every week\n$833 a month\n\nBased on its current 100% yield\n\nYields change and aren't guaranteed\n\nWould you buy it? 👇",
+  "link": false,
+  "post_at": "2026-10-02T18:30:00.000Z",
+  "created_at": "2026-10-01T00:17:07.805Z"
+}

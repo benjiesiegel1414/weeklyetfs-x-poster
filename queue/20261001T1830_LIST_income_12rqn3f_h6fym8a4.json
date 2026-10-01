@@ -1,0 +1,40 @@
+{
+  "id": "h6fym8a4",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "income",
+    "syms": [
+      "AMDY",
+      "MSTY",
+      "HIYY",
+      "USOY",
+      "GOOW",
+      "YMAX",
+      "NVYY",
+      "BLOX",
+      "TOPW",
+      "ODTE"
+    ]
+  },
+  "syms": [
+    "AMDY",
+    "MSTY",
+    "HIYY",
+    "USOY",
+    "GOOW",
+    "YMAX",
+    "NVYY",
+    "BLOX",
+    "TOPW",
+    "ODTE"
+  ],
+  "yield": 101,
+  "tr": 273,
+  "decay": "YES",
+  "images": 1,
+  "text": "What $10,000 in each of these weekly ETFs pays per year 👇\n\n1. $AMDY $10,100/yr\n2. MSTY $10,000/yr\n3. HIYY $6,600/yr\n4. USOY $5,000/yr\n5. GOOW $4,200/yr\n6. YMAX $4,100/yr\n7. NVYY $3,900/yr\n8. BLOX $3,600/yr\n9. TOPW $3,500/yr\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-10-01T18:30:00.000Z",
+  "created_at": "2026-10-01T00:17:07.804Z"
+}

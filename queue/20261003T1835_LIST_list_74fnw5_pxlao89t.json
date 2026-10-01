@@ -1,0 +1,40 @@
+{
+  "id": "pxlao89t",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "watch",
+    "syms": [
+      "GMEY",
+      "CVNY",
+      "XYZY",
+      "QDTY",
+      "SPCI",
+      "MSFW",
+      "XOMO",
+      "COSW",
+      "BRKW",
+      "WEEK"
+    ]
+  },
+  "syms": [
+    "GMEY",
+    "CVNY",
+    "XYZY",
+    "QDTY",
+    "SPCI",
+    "MSFW",
+    "XOMO",
+    "COSW",
+    "BRKW",
+    "WEEK"
+  ],
+  "yield": 81,
+  "tr": -16,
+  "decay": "YES",
+  "images": 1,
+  "text": "Weekly ETFs on my radar right now 👇\n\n1. $GMEY 81%\n2. CVNY 58%\n3. XYZY 32%\n4. QDTY 29%\n5. SPCI 28%\n6. MSFW 28%\n7. XOMO 26%\n8. COSW 21%\n9. BRKW 15%\n10. WEEK 3.5%\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-10-03T18:35:00.000Z",
+  "created_at": "2026-10-01T00:17:07.806Z"
+}

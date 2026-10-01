@@ -1,0 +1,40 @@
+{
+  "id": "5zs7inkv",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "watch",
+    "syms": [
+      "FIAT",
+      "DRAY",
+      "LFGY",
+      "AVGW",
+      "BABO",
+      "DIPS",
+      "IWMY",
+      "APLY",
+      "YQQQ",
+      "BRKC"
+    ]
+  },
+  "syms": [
+    "FIAT",
+    "DRAY",
+    "LFGY",
+    "AVGW",
+    "BABO",
+    "DIPS",
+    "IWMY",
+    "APLY",
+    "YQQQ",
+    "BRKC"
+  ],
+  "yield": 55,
+  "tr": -51,
+  "decay": "YES",
+  "images": 1,
+  "text": "Weekly paying ETFs worth a look 👇\n\n1. $FIAT 55%\n2. DRAY 42%\n3. LFGY 41%\n4. AVGW 38%\n5. BABO 34%\n6. DIPS 33%\n7. IWMY 30%\n8. APLY 30%\n9. YQQQ 21%\n10. BRKC 16%\n\nComment down below which ones you own!",
+  "link": false,
+  "post_at": "2026-10-03T01:00:00.000Z",
+  "created_at": "2026-10-01T00:17:07.806Z"
+}

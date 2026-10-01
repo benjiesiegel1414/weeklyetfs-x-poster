@@ -1,0 +1,40 @@
+{
+  "id": "82c71hec",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "tr",
+    "syms": [
+      "AMDW",
+      "PLTY",
+      "CHPY",
+      "ARMW",
+      "AMZY",
+      "HOOY",
+      "FEPI",
+      "NVDW",
+      "GPTY",
+      "AIPI"
+    ]
+  },
+  "syms": [
+    "AMDW",
+    "PLTY",
+    "CHPY",
+    "ARMW",
+    "AMZY",
+    "HOOY",
+    "FEPI",
+    "NVDW",
+    "GPTY",
+    "AIPI"
+  ],
+  "yield": 65,
+  "tr": 340,
+  "decay": "NO",
+  "images": 1,
+  "text": "Top total return weekly ETFs since launch 👇\n\n1. $AMDW +340%\n2. PLTY +189%\n3. CHPY +178%\n4. ARMW +94%\n5. AMZY +90%\n6. HOOY +77%\n7. FEPI +72%\n8. NVDW +63%\n9. GPTY +59%\n10. AIPI +59%\n\nWhich ones do you hold? Comment below!",
+  "link": false,
+  "post_at": "2026-10-01T22:50:00.000Z",
+  "created_at": "2026-10-01T00:17:07.804Z"
+}
