@@ -1,0 +1,19 @@
+{
+  "id": "tqt8r1f6",
+  "sym": "NFLY",
+  "kind": "goal",
+  "params": {
+    "goal": 2000
+  },
+  "yield": 25,
+  "tr": 7,
+  "decay": "YES",
+  "images": 1,
+  "text": "$NFLY at a 25% yield\n\n$2,000 a week takes roughly $416,000 invested\nThat's $104,000 a year\n\nYields change and aren't guaranteed\n\nIs it in your weekly lineup? \ud83d\udc47",
+  "link": false,
+  "post_at": "2026-10-02T22:45:00.000Z",
+  "created_at": "2026-10-01T00:17:07.806Z",
+  "tweet_id": "2106157402496094593",
+  "url": "https://x.com/WeeklyETFs/status/2106157402496094593",
+  "posted_at": "2026-10-02T23:00:30.234649+00:00"
+}
