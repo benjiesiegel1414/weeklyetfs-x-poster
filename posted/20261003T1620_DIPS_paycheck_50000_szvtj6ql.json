@@ -1,0 +1,19 @@
+{
+  "id": "szvtj6ql",
+  "sym": "DIPS",
+  "kind": "paycheck",
+  "params": {
+    "amt": 50000
+  },
+  "yield": 33,
+  "tr": -56,
+  "decay": "YES",
+  "images": 1,
+  "text": "$DIPS: $50,000 could pay you about $317 every single week\n\nThat's $16,500 a year at its current 33% yield\n\nYields change and aren't guaranteed\n\nWould you buy it? \ud83d\udc47",
+  "link": false,
+  "post_at": "2026-10-03T16:20:00.000Z",
+  "created_at": "2026-10-01T00:17:07.806Z",
+  "tweet_id": "2106421651143626898",
+  "url": "https://x.com/WeeklyETFs/status/2106421651143626898",
+  "posted_at": "2026-10-03T16:30:32.003573+00:00"
+}
