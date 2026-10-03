@@ -1,0 +1,40 @@
+{
+  "id": "xqvbon41",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "weekly",
+    "syms": [
+      "AMDW",
+      "HOOW",
+      "CONY",
+      "DRAY",
+      "YMAX",
+      "TSMY",
+      "GPTY",
+      "PLTY",
+      "TDAX",
+      "QDTE"
+    ]
+  },
+  "syms": [
+    "AMDW",
+    "HOOW",
+    "CONY",
+    "DRAY",
+    "YMAX",
+    "TSMY",
+    "GPTY",
+    "PLTY",
+    "TDAX",
+    "QDTE"
+  ],
+  "yield": 77,
+  "tr": 361,
+  "decay": "NO",
+  "images": 1,
+  "text": "What $10,000 pays you every single week 👇\n\n1. $AMDW $148/wk\n2. HOOW $129/wk\n3. CONY $127/wk\n4. DRAY $81/wk\n5. YMAX $79/wk\n6. TSMY $71/wk\n7. GPTY $69/wk\n8. PLTY $63/wk\n9. TDAX $46/wk\n10. QDTE $38/wk\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-10-06T01:00:00.000Z",
+  "created_at": "2026-10-03T03:23:27.487Z"
+}

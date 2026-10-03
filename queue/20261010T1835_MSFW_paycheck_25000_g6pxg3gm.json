@@ -1,0 +1,16 @@
+{
+  "id": "g6pxg3gm",
+  "sym": "MSFW",
+  "kind": "paycheck",
+  "params": {
+    "amt": 25000
+  },
+  "yield": 40,
+  "tr": -4,
+  "decay": "YES",
+  "images": 1,
+  "text": "$MSFW: $25,000 could pay you about $192 every single week\n\nThat's $10,000 a year at its current 40% yield\n\nYields change and aren't guaranteed\n\nWould you buy it? 👇",
+  "link": false,
+  "post_at": "2026-10-10T18:35:00.000Z",
+  "created_at": "2026-10-03T03:23:27.490Z"
+}
