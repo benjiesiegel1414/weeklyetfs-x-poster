@@ -1,0 +1,19 @@
+{
+  "id": "t25w3pg9",
+  "sym": "GOOY",
+  "kind": "goal",
+  "params": {
+    "goal": 500
+  },
+  "yield": 25,
+  "tr": 88,
+  "decay": "YES",
+  "images": 1,
+  "text": "$GOOY \ud83d\udc47\n\nWant $500 every week?\nYou'd need about $104,000 invested at its 25% yield\n\nYields change and aren't guaranteed\n\nWould you buy it? \ud83d\udc47",
+  "link": false,
+  "post_at": "2026-10-03T12:00:00.000Z",
+  "created_at": "2026-10-01T00:17:07.806Z",
+  "tweet_id": "2106353725229158742",
+  "url": "https://x.com/WeeklyETFs/status/2106353725229158742",
+  "posted_at": "2026-10-03T12:00:37.250346+00:00"
+}
