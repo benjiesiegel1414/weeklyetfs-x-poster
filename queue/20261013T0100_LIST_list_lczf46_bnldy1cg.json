@@ -1,0 +1,40 @@
+{
+  "id": "bnldy1cg",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "tr",
+    "syms": [
+      "AMDY",
+      "SNOY",
+      "TSMY",
+      "AMZY",
+      "GOOY",
+      "NVII",
+      "FEPI",
+      "USOY",
+      "AIPI",
+      "OARK"
+    ]
+  },
+  "syms": [
+    "AMDY",
+    "SNOY",
+    "TSMY",
+    "AMZY",
+    "GOOY",
+    "NVII",
+    "FEPI",
+    "USOY",
+    "AIPI",
+    "OARK"
+  ],
+  "yield": 100,
+  "tr": 274,
+  "decay": "YES",
+  "images": 1,
+  "text": "Weekly ETFs with the best total returns 👇\n\n1. $AMDY +274%\n2. SNOY +154%\n3. TSMY +115%\n4. AMZY +92%\n5. GOOY +88%\n6. NVII +86%\n7. FEPI +75%\n8. USOY +63%\n9. AIPI +62%\n10. OARK +61%\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-10-13T01:00:00.000Z",
+  "created_at": "2026-10-11T16:17:54.641Z"
+}
