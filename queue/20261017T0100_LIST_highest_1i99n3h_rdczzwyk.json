@@ -1,0 +1,40 @@
+{
+  "id": "rdczzwyk",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "highest",
+    "syms": [
+      "AMDY",
+      "GMEY",
+      "ARMW",
+      "SMYY",
+      "SMCY",
+      "MSTW",
+      "AMYY",
+      "HOOY",
+      "MARO",
+      "AIYY"
+    ]
+  },
+  "syms": [
+    "AMDY",
+    "GMEY",
+    "ARMW",
+    "SMYY",
+    "SMCY",
+    "MSTW",
+    "AMYY",
+    "HOOY",
+    "MARO",
+    "AIYY"
+  ],
+  "yield": 100,
+  "tr": 273,
+  "decay": "YES",
+  "images": 1,
+  "text": "Highest yielding weekly ETFs right now 👇\n\n1. $AMDY 100%\n2. GMEY 86%\n3. ARMW 83%\n4. SMYY 77%\n5. SMCY 76%\n6. MSTW 72%\n7. AMYY 70%\n8. HOOY 66%\n9. MARO 65%\n10. AIYY 61%\n\nComment down below which ones you own!",
+  "link": false,
+  "post_at": "2026-10-17T01:00:00.000Z",
+  "created_at": "2026-10-14T03:08:13.716Z"
+}

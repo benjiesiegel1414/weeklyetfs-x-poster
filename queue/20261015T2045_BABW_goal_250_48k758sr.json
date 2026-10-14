@@ -1,0 +1,16 @@
+{
+  "id": "48k758sr",
+  "sym": "BABW",
+  "kind": "goal",
+  "params": {
+    "goal": 250
+  },
+  "yield": 30,
+  "tr": -43,
+  "decay": "YES",
+  "images": 1,
+  "text": "$BABW: how much for a $250 weekly paycheck?\n\nAbout $43,300\n\nThat's at its current 30% yield\n\nYields change and aren't guaranteed\n\nIs it in your weekly lineup? 👇",
+  "link": false,
+  "post_at": "2026-10-15T20:45:00.000Z",
+  "created_at": "2026-10-14T03:08:13.715Z"
+}

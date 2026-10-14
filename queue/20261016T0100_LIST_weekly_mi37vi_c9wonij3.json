@@ -1,0 +1,40 @@
+{
+  "id": "c9wonij3",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "weekly",
+    "syms": [
+      "RDYY",
+      "FIAT",
+      "HOOW",
+      "CHPY",
+      "BLOX",
+      "GOOW",
+      "BABO",
+      "QQQY",
+      "MAGY",
+      "WEEK"
+    ]
+  },
+  "syms": [
+    "RDYY",
+    "FIAT",
+    "HOOW",
+    "CHPY",
+    "BLOX",
+    "GOOW",
+    "BABO",
+    "QQQY",
+    "MAGY",
+    "WEEK"
+  ],
+  "yield": 55,
+  "tr": -30,
+  "decay": "YES",
+  "images": 1,
+  "text": "Weekly income from $10,000 in each 👇\n\n1. $RDYY $106/wk\n2. FIAT $106/wk\n3. HOOW $90/wk\n4. CHPY $77/wk\n5. BLOX $69/wk\n6. GOOW $60/wk\n7. BABO $60/wk\n8. QQQY $58/wk\n9. MAGY $38/wk\n10. WEEK $7/wk\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-10-16T01:00:00.000Z",
+  "created_at": "2026-10-14T03:08:13.716Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mgbcyzyn",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "watch",
+    "syms": [
+      "TSLY",
+      "TSII",
+      "NVDW",
+      "USOY",
+      "PLTY",
+      "RDTY",
+      "GPTY",
+      "NVDY",
+      "QDTE",
+      "COSW"
+    ]
+  },
+  "syms": [
+    "TSLY",
+    "TSII",
+    "NVDW",
+    "USOY",
+    "PLTY",
+    "RDTY",
+    "GPTY",
+    "NVDY",
+    "QDTE",
+    "COSW"
+  ],
+  "yield": 50,
+  "tr": 43,
+  "decay": "YES",
+  "images": 1,
+  "text": "Weekly ETFs on my radar right now 👇\n\n1. $TSLY 50%\n2. TSII 49%\n3. NVDW 46%\n4. USOY 45%\n5. PLTY 40%\n6. RDTY 36%\n7. GPTY 35%\n8. NVDY 30%\n9. QDTE 20%\n10. COSW 20%\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-10-15T16:20:00.000Z",
+  "created_at": "2026-10-14T03:08:13.715Z"
+}
