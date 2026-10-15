@@ -1,0 +1,19 @@
+{
+  "id": "cfwcrqbr",
+  "sym": "HIYY",
+  "kind": "paycheck",
+  "params": {
+    "amt": 100000
+  },
+  "yield": 65,
+  "tr": -41,
+  "decay": "YES",
+  "images": 1,
+  "text": "$HIYY \ud83d\udc47\n\n$100,000 invested\n$1,250 every week\n$5,417 a month\n\nBased on its current 65% yield\n\nYields change and aren't guaranteed\n\nWould you buy it? \ud83d\udc47",
+  "link": false,
+  "post_at": "2026-10-15T12:00:00.000Z",
+  "created_at": "2026-10-14T03:08:13.715Z",
+  "tweet_id": "2110702365636808731",
+  "url": "https://x.com/WeeklyETFs/status/2110702365636808731",
+  "posted_at": "2026-10-15T12:00:33.849788+00:00"
+}
