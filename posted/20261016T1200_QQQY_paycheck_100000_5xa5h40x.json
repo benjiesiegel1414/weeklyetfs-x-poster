@@ -1,0 +1,19 @@
+{
+  "id": "5xa5h40x",
+  "sym": "QQQY",
+  "kind": "paycheck",
+  "params": {
+    "amt": 100000
+  },
+  "yield": 30,
+  "tr": 60,
+  "decay": "YES",
+  "images": 1,
+  "text": "$QQQY \ud83d\udc47\n\n$100,000 invested\n$577 every week\n$2,500 a month\n\nBased on its current 30% yield\n\nYields change and aren't guaranteed\n\nWould you buy it? \ud83d\udc47",
+  "link": false,
+  "post_at": "2026-10-16T12:00:00.000Z",
+  "created_at": "2026-10-14T03:08:13.716Z",
+  "tweet_id": "2111064725056327822",
+  "url": "https://x.com/WeeklyETFs/status/2111064725056327822",
+  "posted_at": "2026-10-16T12:00:27.108707+00:00"
+}
