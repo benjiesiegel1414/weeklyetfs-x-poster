@@ -1,0 +1,19 @@
+{
+  "id": "y8g3nixf",
+  "sym": "TSLY",
+  "kind": "paycheck",
+  "params": {
+    "amt": 10000
+  },
+  "yield": 50,
+  "tr": 43,
+  "decay": "YES",
+  "images": 1,
+  "text": "$TSLY \ud83d\udc47\n\n$10,000 invested\n$96.15 every week\n$417 a month\n\nBased on its current 50% yield\n\nYields change and aren't guaranteed",
+  "link": false,
+  "post_at": "2026-10-18T16:10:00.000Z",
+  "created_at": "2026-10-14T03:08:13.718Z",
+  "tweet_id": "2111857426253103466",
+  "url": "https://x.com/WeeklyETFs/status/2111857426253103466",
+  "posted_at": "2026-10-18T16:30:21.809856+00:00"
+}
