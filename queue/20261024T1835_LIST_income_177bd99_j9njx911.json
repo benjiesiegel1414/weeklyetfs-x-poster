@@ -1,0 +1,40 @@
+{
+  "id": "j9njx911",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "income",
+    "syms": [
+      "MRNY",
+      "PLTW",
+      "MARO",
+      "HOOW",
+      "NFLW",
+      "YBST",
+      "RDTY",
+      "QDTY",
+      "MAGY",
+      "BRKC"
+    ]
+  },
+  "syms": [
+    "MRNY",
+    "PLTW",
+    "MARO",
+    "HOOW",
+    "NFLW",
+    "YBST",
+    "RDTY",
+    "QDTY",
+    "MAGY",
+    "BRKC"
+  ],
+  "yield": 100,
+  "tr": 78,
+  "decay": "YES",
+  "images": 1,
+  "text": "Yearly income from $10,000 in each 👇\n\n1. $MRNY $10,000/yr\n2. PLTW $7,800/yr\n3. MARO $6,600/yr\n4. HOOW $5,600/yr\n5. NFLW $5,000/yr\n6. YBST $4,200/yr\n7. RDTY $3,600/yr\n8. QDTY $3,100/yr\n9. MAGY $2,000/yr\n10. BRKC $1,200/yr\n\nComment down below which ones you own!",
+  "link": false,
+  "post_at": "2026-10-24T18:35:00.000Z",
+  "created_at": "2026-10-19T14:39:49.203Z"
+}

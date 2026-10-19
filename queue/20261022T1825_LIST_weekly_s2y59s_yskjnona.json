@@ -1,0 +1,40 @@
+{
+  "id": "yskjnona",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "weekly",
+    "syms": [
+      "ULTI",
+      "WNTR",
+      "NVDY",
+      "NVII",
+      "PYPY",
+      "TSMY",
+      "COSW",
+      "MEMY",
+      "APLY",
+      "TDAX"
+    ]
+  },
+  "syms": [
+    "ULTI",
+    "WNTR",
+    "NVDY",
+    "NVII",
+    "PYPY",
+    "TSMY",
+    "COSW",
+    "MEMY",
+    "APLY",
+    "TDAX"
+  ],
+  "yield": 66,
+  "tr": -59,
+  "decay": "YES",
+  "images": 1,
+  "text": "Your weekly paycheck from $10,000 in each 👇\n\n1. $ULTI $127/wk\n2. WNTR $117/wk\n3. NVDY $63/wk\n4. NVII $60/wk\n5. PYPY $60/wk\n6. TSMY $54/wk\n7. COSW $50/wk\n8. MEMY $48/wk\n9. APLY $48/wk\n10. TDAX $37/wk\n\nWhich ones do you hold? Comment below!",
+  "link": false,
+  "post_at": "2026-10-22T18:25:00.000Z",
+  "created_at": "2026-10-19T14:39:49.202Z"
+}

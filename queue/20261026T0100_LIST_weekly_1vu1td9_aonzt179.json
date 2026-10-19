@@ -1,0 +1,40 @@
+{
+  "id": "aonzt179",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "weekly",
+    "syms": [
+      "GMEY",
+      "CRCO",
+      "SMCY",
+      "AIYY",
+      "CRSH",
+      "CEPI",
+      "DIPS",
+      "AMZY",
+      "YQQQ",
+      "WEEK"
+    ]
+  },
+  "syms": [
+    "GMEY",
+    "CRCO",
+    "SMCY",
+    "AIYY",
+    "CRSH",
+    "CEPI",
+    "DIPS",
+    "AMZY",
+    "YQQQ",
+    "WEEK"
+  ],
+  "yield": 75,
+  "tr": -11,
+  "decay": "YES",
+  "images": 1,
+  "text": "Weekly income from $10,000 in each 👇\n\n1. $GMEY $144/wk\n2. CRCO $135/wk\n3. SMCY $117/wk\n4. AIYY $115/wk\n5. CRSH $87/wk\n6. CEPI $81/wk\n7. DIPS $65/wk\n8. AMZY $52/wk\n9. YQQQ $37/wk\n10. WEEK $7/wk\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-10-26T01:00:00.000Z",
+  "created_at": "2026-10-19T14:39:49.204Z"
+}
