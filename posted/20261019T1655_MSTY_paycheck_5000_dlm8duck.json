@@ -1,0 +1,19 @@
+{
+  "id": "dlm8duck",
+  "sym": "MSTY",
+  "kind": "paycheck",
+  "params": {
+    "amt": 5000
+  },
+  "yield": 83,
+  "tr": 57,
+  "decay": "YES",
+  "images": 1,
+  "text": "$MSTY: $5,000 could pay you about $79.81 every single week\n\nThat's $4,150 a year at its current 83% yield\n\nYields change and aren't guaranteed\n\nAre you holding this one? \ud83d\udc47",
+  "link": false,
+  "post_at": "2026-10-19T16:55:00.000Z",
+  "created_at": "2026-10-19T16:32:48.885Z",
+  "tweet_id": "2112227406450966556",
+  "url": "https://x.com/WeeklyETFs/status/2112227406450966556",
+  "posted_at": "2026-10-19T17:00:31.935575+00:00"
+}
