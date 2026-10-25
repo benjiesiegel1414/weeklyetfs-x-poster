@@ -1,0 +1,40 @@
+{
+  "id": "uxs1ws0r",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "watch",
+    "syms": [
+      "CRCO",
+      "ULTI",
+      "TSLY",
+      "AMZW",
+      "YMAX",
+      "GPTY",
+      "RDTE",
+      "XDTE",
+      "JPO",
+      "ODTE"
+    ]
+  },
+  "syms": [
+    "CRCO",
+    "ULTI",
+    "TSLY",
+    "AMZW",
+    "YMAX",
+    "GPTY",
+    "RDTE",
+    "XDTE",
+    "JPO",
+    "ODTE"
+  ],
+  "yield": 70,
+  "tr": -33,
+  "decay": "YES",
+  "images": 1,
+  "text": "Top Weekly ETFs worth watching 👇\n\n1. $CRCO 70%\n2. ULTI 66%\n3. TSLY 49%\n4. AMZW 48%\n5. YMAX 41%\n6. GPTY 35%\n7. RDTE 31%\n8. XDTE 20%\n9. JPO 19%\n10. ODTE 14%\n\nWhich ones do you hold? Comment below!",
+  "link": false,
+  "post_at": "2026-10-29T18:20:00.000Z",
+  "created_at": "2026-10-25T22:30:51.265Z"
+}

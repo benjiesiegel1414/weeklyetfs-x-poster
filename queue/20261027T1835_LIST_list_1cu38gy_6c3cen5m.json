@@ -1,0 +1,40 @@
+{
+  "id": "6c3cen5m",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "watch",
+    "syms": [
+      "MSTY",
+      "ULTY",
+      "GDXY",
+      "CHPY",
+      "QLDY",
+      "NVDY",
+      "NVDW",
+      "MINY",
+      "QQQY",
+      "QDTE"
+    ]
+  },
+  "syms": [
+    "MSTY",
+    "ULTY",
+    "GDXY",
+    "CHPY",
+    "QLDY",
+    "NVDY",
+    "NVDW",
+    "MINY",
+    "QQQY",
+    "QDTE"
+  ],
+  "yield": 83,
+  "tr": 57,
+  "decay": "YES",
+  "images": 1,
+  "text": "Weekly ETFs on my radar right now 👇\n\n1. $MSTY 83%\n2. ULTY 61%\n3. GDXY 41%\n4. CHPY 40%\n5. QLDY 40%\n6. NVDY 33%\n7. NVDW 32%\n8. MINY 31%\n9. QQQY 30%\n10. QDTE 24%\n\nWhich ones do you hold? Comment below!",
+  "link": false,
+  "post_at": "2026-10-27T18:35:00.000Z",
+  "created_at": "2026-10-25T22:30:51.261Z"
+}

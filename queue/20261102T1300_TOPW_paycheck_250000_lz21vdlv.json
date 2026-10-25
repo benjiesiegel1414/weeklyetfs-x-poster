@@ -1,0 +1,16 @@
+{
+  "id": "lz21vdlv",
+  "sym": "TOPW",
+  "kind": "paycheck",
+  "params": {
+    "amt": 250000
+  },
+  "yield": 37,
+  "tr": 4,
+  "decay": "YES",
+  "images": 1,
+  "text": "$TOPW 👇\n\n$250,000 invested\n$1,779 every week\n$7,708 a month\n\nBased on its current 37% yield\n\nYields change and aren't guaranteed\n\nIs it in your weekly lineup? 👇",
+  "link": false,
+  "post_at": "2026-11-02T13:00:00.000Z",
+  "created_at": "2026-10-25T22:30:51.266Z"
+}

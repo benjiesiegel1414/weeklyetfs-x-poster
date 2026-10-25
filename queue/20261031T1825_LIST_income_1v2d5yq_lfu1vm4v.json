@@ -1,0 +1,40 @@
+{
+  "id": "lfu1vm4v",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "income",
+    "syms": [
+      "RBLY",
+      "DRAY",
+      "LFGY",
+      "BABO",
+      "NVYY",
+      "GOOY",
+      "NFLY",
+      "KYLD",
+      "TSYX",
+      "BRKW"
+    ]
+  },
+  "syms": [
+    "RBLY",
+    "DRAY",
+    "LFGY",
+    "BABO",
+    "NVYY",
+    "GOOY",
+    "NFLY",
+    "KYLD",
+    "TSYX",
+    "BRKW"
+  ],
+  "yield": 60,
+  "tr": -57,
+  "decay": "YES",
+  "images": 1,
+  "text": "$10,000 in each of these pays you this much a year 👇\n\n1. $RBLY $6,000/yr\n2. DRAY $4,800/yr\n3. LFGY $4,000/yr\n4. BABO $3,400/yr\n5. NVYY $3,100/yr\n6. GOOY $3,000/yr\n7. NFLY $2,500/yr\n8. KYLD $2,400/yr\n9. TSYX $2,000/yr\n10. BRKW $1,900/yr\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-10-31T18:25:00.000Z",
+  "created_at": "2026-10-25T22:30:51.265Z"
+}

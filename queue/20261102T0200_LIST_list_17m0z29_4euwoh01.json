@@ -1,0 +1,40 @@
+{
+  "id": "4euwoh01",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "tr",
+    "syms": [
+      "NVDY",
+      "AMDW",
+      "PLTY",
+      "CHPY",
+      "GOOW",
+      "YMAG",
+      "MSFO",
+      "QDTE",
+      "MSTY",
+      "QQQY"
+    ]
+  },
+  "syms": [
+    "NVDY",
+    "AMDW",
+    "PLTY",
+    "CHPY",
+    "GOOW",
+    "YMAG",
+    "MSFO",
+    "QDTE",
+    "MSTY",
+    "QQQY"
+  ],
+  "yield": 33,
+  "tr": 344,
+  "decay": "YES",
+  "images": 1,
+  "text": "Weekly ETFs with the best total returns 👇\n\n1. $NVDY +344%\n2. AMDW +276%\n3. PLTY +194%\n4. CHPY +151%\n5. GOOW +87%\n6. YMAG +72%\n7. MSFO +65%\n8. QDTE +58%\n9. MSTY +57%\n10. QQQY +54%\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-11-02T02:00:00.000Z",
+  "created_at": "2026-10-25T22:30:51.266Z"
+}
