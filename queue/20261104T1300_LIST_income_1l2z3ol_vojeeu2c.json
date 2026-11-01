@@ -1,0 +1,40 @@
+{
+  "id": "vojeeu2c",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "income",
+    "syms": [
+      "FIAT",
+      "TSLY",
+      "RDYY",
+      "USOY",
+      "AMDY",
+      "YMAX",
+      "YMAG",
+      "NVDY",
+      "QDTE",
+      "ODTE"
+    ]
+  },
+  "syms": [
+    "FIAT",
+    "TSLY",
+    "RDYY",
+    "USOY",
+    "AMDY",
+    "YMAX",
+    "YMAG",
+    "NVDY",
+    "QDTE",
+    "ODTE"
+  ],
+  "yield": 81,
+  "tr": -34,
+  "decay": "YES",
+  "images": 1,
+  "text": "What $10,000 in each of these weekly ETFs pays per year 👇\n\n1. $FIAT $8,100/yr\n2. TSLY $5,000/yr\n3. RDYY $5,000/yr\n4. USOY $4,500/yr\n5. AMDY $4,200/yr\n6. YMAX $4,000/yr\n7. YMAG $3,100/yr\n8. NVDY $3,000/yr\n9. QDTE $2,800/yr\n\nWhich ones do you hold? Comment below!",
+  "link": false,
+  "post_at": "2026-11-04T13:00:00.000Z",
+  "created_at": "2026-11-01T20:17:33.897Z"
+}

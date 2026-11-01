@@ -1,0 +1,40 @@
+{
+  "id": "a9riygdv",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "weekly",
+    "syms": [
+      "GMEY",
+      "CVNY",
+      "TSLW",
+      "QLDY",
+      "NVII",
+      "GDXY",
+      "DIPS",
+      "FBY",
+      "QDTY",
+      "COSW"
+    ]
+  },
+  "syms": [
+    "GMEY",
+    "CVNY",
+    "TSLW",
+    "QLDY",
+    "NVII",
+    "GDXY",
+    "DIPS",
+    "FBY",
+    "QDTY",
+    "COSW"
+  ],
+  "yield": 65,
+  "tr": -21,
+  "decay": "YES",
+  "images": 1,
+  "text": "Your weekly paycheck from $10,000 in each 👇\n\n1. $GMEY $125/wk\n2. CVNY $117/wk\n3. TSLW $94/wk\n4. QLDY $77/wk\n5. NVII $75/wk\n6. GDXY $73/wk\n7. DIPS $67/wk\n8. FBY $65/wk\n9. QDTY $60/wk\n10. COSW $50/wk\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-11-06T13:00:00.000Z",
+  "created_at": "2026-11-01T20:17:33.899Z"
+}

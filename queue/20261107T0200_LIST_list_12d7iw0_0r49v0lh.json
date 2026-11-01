@@ -1,0 +1,40 @@
+{
+  "id": "0r49v0lh",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "watch",
+    "syms": [
+      "MSTW",
+      "MRNY",
+      "CRCO",
+      "COIW",
+      "YBST",
+      "AVGW",
+      "MEMY",
+      "GOOY",
+      "JPO",
+      "TSYX"
+    ]
+  },
+  "syms": [
+    "MSTW",
+    "MRNY",
+    "CRCO",
+    "COIW",
+    "YBST",
+    "AVGW",
+    "MEMY",
+    "GOOY",
+    "JPO",
+    "TSYX"
+  ],
+  "yield": 91,
+  "tr": -79,
+  "decay": "YES",
+  "images": 1,
+  "text": "Top Weekly ETFs worth watching 👇\n\n1. $MSTW 91%\n2. MRNY 71%\n3. CRCO 70%\n4. COIW 54%\n5. YBST 41%\n6. AVGW 35%\n7. MEMY 29%\n8. GOOY 26%\n9. JPO 20%\n10. TSYX 20%\n\nComment down below which ones you own!",
+  "link": false,
+  "post_at": "2026-11-07T02:00:00.000Z",
+  "created_at": "2026-11-01T20:17:33.899Z"
+}

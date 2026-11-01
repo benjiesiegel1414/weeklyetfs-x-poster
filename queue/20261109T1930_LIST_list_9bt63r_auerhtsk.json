@@ -1,0 +1,40 @@
+{
+  "id": "auerhtsk",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "watch",
+    "syms": [
+      "PLTW",
+      "HIYY",
+      "TSII",
+      "XOMO",
+      "MAGY",
+      "FEPI",
+      "MSFO",
+      "UBEW",
+      "SDTY",
+      "VAIE"
+    ]
+  },
+  "syms": [
+    "PLTW",
+    "HIYY",
+    "TSII",
+    "XOMO",
+    "MAGY",
+    "FEPI",
+    "MSFO",
+    "UBEW",
+    "SDTY",
+    "VAIE"
+  ],
+  "yield": 72,
+  "tr": 57,
+  "decay": "YES",
+  "images": 1,
+  "text": "Top Weekly ETFs worth watching 👇\n\n1. $PLTW 72%\n2. HIYY 66%\n3. TSII 53%\n4. XOMO 40%\n5. MAGY 25%\n6. FEPI 25%\n7. MSFO 24%\n8. UBEW 24%\n9. SDTY 23%\n10. VAIE 16%\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-11-09T19:30:00.000Z",
+  "created_at": "2026-11-01T20:17:33.900Z"
+}

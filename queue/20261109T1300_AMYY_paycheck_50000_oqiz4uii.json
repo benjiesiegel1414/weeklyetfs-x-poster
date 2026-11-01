@@ -1,0 +1,16 @@
+{
+  "id": "oqiz4uii",
+  "sym": "AMYY",
+  "kind": "paycheck",
+  "params": {
+    "amt": 50000
+  },
+  "yield": 68,
+  "tr": 29,
+  "decay": "YES",
+  "images": 1,
+  "text": "$AMYY 👇\n\n$50,000 invested\n$654 every week\n$2,833 a month\n\nBased on its current 68% yield\n\nYields change and aren't guaranteed\n\nIs it in your weekly lineup? 👇",
+  "link": false,
+  "post_at": "2026-11-09T13:00:00.000Z",
+  "created_at": "2026-11-01T20:17:33.900Z"
+}
