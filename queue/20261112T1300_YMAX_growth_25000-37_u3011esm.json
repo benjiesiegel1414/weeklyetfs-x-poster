@@ -1,0 +1,16 @@
+{
+  "id": "u3011esm",
+  "sym": "YMAX",
+  "kind": "growth",
+  "params": {
+    "amt": 25000
+  },
+  "yield": 41,
+  "tr": 37,
+  "decay": "YES",
+  "images": 1,
+  "text": "$YMAX: $25,000 invested at launch would be worth about $34,300 today\n\nThat's a +37% total return with distributions included\n\nPast returns don't guarantee future results",
+  "link": false,
+  "post_at": "2026-11-12T13:00:00.000Z",
+  "created_at": "2026-11-03T19:54:52.350Z"
+}
