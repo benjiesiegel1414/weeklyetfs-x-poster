@@ -1,0 +1,19 @@
+{
+  "id": "sn1o9czx",
+  "sym": "YMAX",
+  "kind": "paycheck",
+  "params": {
+    "amt": 20000
+  },
+  "yield": 40,
+  "tr": 36,
+  "decay": "YES",
+  "images": 1,
+  "text": "$YMAX: $20,000 could pay you about $154 every single week\n\nThat's $8,000 a year at its current 40% yield\n\nYields change and aren't guaranteed\n\nWould you buy it? \ud83d\udc47",
+  "link": false,
+  "post_at": "2026-11-04T02:00:00.000Z",
+  "created_at": "2026-11-01T20:17:33.896Z",
+  "tweet_id": "2117799140570632238",
+  "url": "https://x.com/WeeklyETFs/status/2117799140570632238",
+  "posted_at": "2026-11-04T02:00:36.881139+00:00"
+}
