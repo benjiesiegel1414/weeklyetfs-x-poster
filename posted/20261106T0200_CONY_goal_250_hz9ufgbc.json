@@ -1,0 +1,19 @@
+{
+  "id": "hz9ufgbc",
+  "sym": "CONY",
+  "kind": "goal",
+  "params": {
+    "goal": 250
+  },
+  "yield": 55,
+  "tr": 10,
+  "decay": "YES",
+  "images": 1,
+  "text": "$CONY: how much for a $250 weekly paycheck?\n\nAbout $23,600\n\nThat's at its current 55% yield\n\nYields change and aren't guaranteed\n\nHow much do you own? \ud83d\udc47",
+  "link": false,
+  "post_at": "2026-11-06T02:00:00.000Z",
+  "created_at": "2026-11-01T20:17:33.898Z",
+  "tweet_id": "2118523900078457270",
+  "url": "https://x.com/WeeklyETFs/status/2118523900078457270",
+  "posted_at": "2026-11-06T02:00:32.988068+00:00"
+}
