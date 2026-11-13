@@ -1,0 +1,16 @@
+{
+  "id": "ohtzlsja",
+  "sym": "BLOX",
+  "kind": "paycheck",
+  "params": {
+    "amt": 250000
+  },
+  "yield": 36,
+  "tr": -22,
+  "decay": "YES",
+  "images": 1,
+  "text": "$BLOX: $250,000 could pay you about $1,731 every single week\n\nThat's $90,000 a year at its current 36% yield\n\nYields change and aren't guaranteed\n\nWould you buy it? 👇",
+  "link": false,
+  "post_at": "2026-11-22T02:00:00.000Z",
+  "created_at": "2026-11-13T19:28:58.264Z"
+}

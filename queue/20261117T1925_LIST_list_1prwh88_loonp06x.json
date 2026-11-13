@@ -1,0 +1,40 @@
+{
+  "id": "loonp06x",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "watch",
+    "syms": [
+      "HOYY",
+      "INYY",
+      "CONY",
+      "YETH",
+      "TSYY",
+      "YBST",
+      "LFGY",
+      "NVDY",
+      "MINY",
+      "SDTY"
+    ]
+  },
+  "syms": [
+    "HOYY",
+    "INYY",
+    "CONY",
+    "YETH",
+    "TSYY",
+    "YBST",
+    "LFGY",
+    "NVDY",
+    "MINY",
+    "SDTY"
+  ],
+  "yield": 74,
+  "tr": -53,
+  "decay": "YES",
+  "images": 1,
+  "text": "Weekly ETFs on my radar right now 👇\n\n1. $HOYY 74%\n2. INYY 61%\n3. CONY 60%\n4. YETH 54%\n5. TSYY 44%\n6. YBST 41%\n7. LFGY 40%\n8. NVDY 30%\n9. MINY 30%\n10. SDTY 24%\n\nComment down below which ones you own!",
+  "link": false,
+  "post_at": "2026-11-17T19:25:00.000Z",
+  "created_at": "2026-11-13T19:28:58.261Z"
+}

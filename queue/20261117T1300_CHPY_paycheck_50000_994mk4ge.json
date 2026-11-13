@@ -1,0 +1,16 @@
+{
+  "id": "994mk4ge",
+  "sym": "CHPY",
+  "kind": "paycheck",
+  "params": {
+    "amt": 50000
+  },
+  "yield": 41,
+  "tr": 123,
+  "decay": "NO",
+  "images": 1,
+  "text": "$CHPY 👇\n\n$50,000 invested\n$394 every week\n$1,708 a month\n\nBased on its current 41% yield\n\nYields change and aren't guaranteed\n\nHow much do you own? 👇",
+  "link": false,
+  "post_at": "2026-11-17T13:00:00.000Z",
+  "created_at": "2026-11-13T19:28:58.261Z"
+}

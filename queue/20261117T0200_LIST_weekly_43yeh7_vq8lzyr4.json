@@ -1,0 +1,40 @@
+{
+  "id": "vq8lzyr4",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "weekly",
+    "syms": [
+      "ULTY",
+      "COYY",
+      "CHPY",
+      "BLOX",
+      "FBY",
+      "TOPW",
+      "MSFO",
+      "NVDW",
+      "TDAX",
+      "QDTE"
+    ]
+  },
+  "syms": [
+    "ULTY",
+    "COYY",
+    "CHPY",
+    "BLOX",
+    "FBY",
+    "TOPW",
+    "MSFO",
+    "NVDW",
+    "TDAX",
+    "QDTE"
+  ],
+  "yield": 60,
+  "tr": -5,
+  "decay": "YES",
+  "images": 1,
+  "text": "What $10,000 pays you every single week 👇\n\n1. $ULTY $115/wk\n2. COYY $113/wk\n3. CHPY $79/wk\n4. BLOX $69/wk\n5. FBY $67/wk\n6. TOPW $60/wk\n7. MSFO $58/wk\n8. NVDW $56/wk\n9. TDAX $48/wk\n10. QDTE $46/wk\n\nComment down below which ones you own!",
+  "link": false,
+  "post_at": "2026-11-17T02:00:00.000Z",
+  "created_at": "2026-11-13T19:28:58.261Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "r06swsfe",
+  "sym": "XDTE",
+  "kind": "goal",
+  "params": {
+    "goal": 2000
+  },
+  "yield": 18,
+  "tr": 45,
+  "decay": "YES",
+  "images": 1,
+  "text": "$XDTE 👇\n\nWant $2,000 every week?\nYou'd need about $577,800 invested at its 18% yield\n\nYields change and aren't guaranteed",
+  "link": false,
+  "post_at": "2026-11-18T19:25:00.000Z",
+  "created_at": "2026-11-13T19:28:58.261Z"
+}

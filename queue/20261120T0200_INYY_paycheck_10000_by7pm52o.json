@@ -1,0 +1,16 @@
+{
+  "id": "by7pm52o",
+  "sym": "INYY",
+  "kind": "paycheck",
+  "params": {
+    "amt": 10000
+  },
+  "yield": 61,
+  "tr": -48,
+  "decay": "YES",
+  "images": 1,
+  "text": "$INYY 👇\n\n$10,000 invested\n$117 every week\n$508 a month\n\nBased on its current 61% yield\n\nYields change and aren't guaranteed\n\nIs it in your weekly lineup? 👇",
+  "link": false,
+  "post_at": "2026-11-20T02:00:00.000Z",
+  "created_at": "2026-11-13T19:28:58.261Z"
+}

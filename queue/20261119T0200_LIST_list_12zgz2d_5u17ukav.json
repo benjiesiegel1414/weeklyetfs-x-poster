@@ -1,0 +1,40 @@
+{
+  "id": "5u17ukav",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "tr",
+    "syms": [
+      "AMDY",
+      "SNOY",
+      "AMZY",
+      "GOOY",
+      "USOY",
+      "JPO",
+      "FEPI",
+      "GDXY",
+      "AAPW",
+      "XYZY"
+    ]
+  },
+  "syms": [
+    "AMDY",
+    "SNOY",
+    "AMZY",
+    "GOOY",
+    "USOY",
+    "JPO",
+    "FEPI",
+    "GDXY",
+    "AAPW",
+    "XYZY"
+  ],
+  "yield": 45,
+  "tr": 236,
+  "decay": "YES",
+  "images": 1,
+  "text": "Weekly ETFs with the best total returns 👇\n\n1. $AMDY +236%\n2. SNOY +106%\n3. AMZY +99%\n4. GOOY +59%\n5. USOY +58%\n6. JPO +56%\n7. FEPI +53%\n8. GDXY +47%\n9. AAPW +47%\n10. XYZY +46%\n\nComment down below which ones you own!",
+  "link": false,
+  "post_at": "2026-11-19T02:00:00.000Z",
+  "created_at": "2026-11-13T19:28:58.261Z"
+}

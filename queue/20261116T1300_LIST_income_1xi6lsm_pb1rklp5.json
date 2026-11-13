@@ -1,0 +1,40 @@
+{
+  "id": "pb1rklp5",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "income",
+    "syms": [
+      "TSLY",
+      "GOOW",
+      "YMAG",
+      "RDTE",
+      "MEMY",
+      "QQQY",
+      "ARMW",
+      "IWMY",
+      "WMTI",
+      "YMAX"
+    ]
+  },
+  "syms": [
+    "TSLY",
+    "GOOW",
+    "YMAG",
+    "RDTE",
+    "MEMY",
+    "QQQY",
+    "ARMW",
+    "IWMY",
+    "WMTI",
+    "YMAX"
+  ],
+  "yield": 48,
+  "tr": 41,
+  "decay": "YES",
+  "images": 1,
+  "text": "Yearly income from $10,000 in each 👇\n\n1. $TSLY $4,800/yr\n2. GOOW $3,800/yr\n3. YMAG $3,600/yr\n4. RDTE $3,300/yr\n5. MEMY $3,200/yr\n6. QQQY $3,000/yr\n7. ARMW $3,000/yr\n8. IWMY $3,000/yr\n9. WMTI $2,700/yr\n10. YMAX $2,000/yr\n\nWhich ones do you hold? Comment below!",
+  "link": false,
+  "post_at": "2026-11-16T13:00:00.000Z",
+  "created_at": "2026-11-13T19:28:58.260Z"
+}
