@@ -1,0 +1,19 @@
+{
+  "id": "kwpbbgix",
+  "sym": "TSLY",
+  "kind": "paycheck",
+  "params": {
+    "amt": 20000
+  },
+  "yield": 48,
+  "tr": 41,
+  "decay": "YES",
+  "images": 1,
+  "text": "$TSLY \ud83d\udc47\n\n$20,000 invested\n$185 every week\n$800 a month\n\nBased on its current 48% yield\n\nYields change and aren't guaranteed\n\nWould you buy it? \ud83d\udc47",
+  "link": false,
+  "post_at": "2026-11-20T19:25:00.000Z",
+  "created_at": "2026-11-13T19:28:58.262Z",
+  "tweet_id": "2123861583407513706",
+  "url": "https://x.com/WeeklyETFs/status/2123861583407513706",
+  "posted_at": "2026-11-20T19:30:35.850563+00:00"
+}
