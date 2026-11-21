@@ -1,0 +1,40 @@
+{
+  "id": "i54t0440",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "highest",
+    "syms": [
+      "CVNY",
+      "FIAT",
+      "HIYY",
+      "DIPS",
+      "NVII",
+      "HOYY",
+      "AVGW",
+      "TSII",
+      "MSTY",
+      "YETH"
+    ]
+  },
+  "syms": [
+    "CVNY",
+    "FIAT",
+    "HIYY",
+    "DIPS",
+    "NVII",
+    "HOYY",
+    "AVGW",
+    "TSII",
+    "MSTY",
+    "YETH"
+  ],
+  "yield": 101,
+  "tr": 38,
+  "decay": "YES",
+  "images": 1,
+  "text": "The biggest weekly yields out there 👇\n\n1. $CVNY 101%\n2. FIAT 101%\n3. HIYY 75%\n4. DIPS 75%\n5. NVII 70%\n6. HOYY 70%\n7. AVGW 67%\n8. TSII 66%\n9. MSTY 65%\n10. YETH 63%\n\nComment down below which ones you own!",
+  "link": false,
+  "post_at": "2026-11-23T13:00:00.000Z",
+  "created_at": "2026-11-21T17:00:52.494Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "o1utfo22",
+  "sym": "USOY",
+  "kind": "paycheck",
+  "params": {
+    "amt": 15000
+  },
+  "yield": 45,
+  "tr": 48,
+  "decay": "YES",
+  "images": 1,
+  "text": "$USOY 👇\n\n$15,000 invested\n$130 every week\n$563 a month\n\nBased on its current 45% yield\n\nYields change and aren't guaranteed\n\nHow much do you own? 👇",
+  "link": false,
+  "post_at": "2026-11-27T02:00:00.000Z",
+  "created_at": "2026-11-21T17:00:52.495Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "k1usc1ed",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "highest",
+    "syms": [
+      "WNTR",
+      "AMDW",
+      "MARO",
+      "MRNY",
+      "XYZY",
+      "COIW",
+      "NVII",
+      "INYY",
+      "MSTY",
+      "CONY"
+    ]
+  },
+  "syms": [
+    "WNTR",
+    "AMDW",
+    "MARO",
+    "MRNY",
+    "XYZY",
+    "COIW",
+    "NVII",
+    "INYY",
+    "MSTY",
+    "CONY"
+  ],
+  "yield": 101,
+  "tr": 70,
+  "decay": "YES",
+  "images": 1,
+  "text": "The biggest weekly yields out there 👇\n\n1. $WNTR 101%\n2. AMDW 95%\n3. MARO 80%\n4. MRNY 75%\n5. XYZY 71%\n6. COIW 70%\n7. NVII 70%\n8. INYY 66%\n9. MSTY 65%\n10. CONY 63%\n\nComment down below which ones you own!",
+  "link": false,
+  "post_at": "2026-11-26T02:00:00.000Z",
+  "created_at": "2026-11-21T17:00:52.495Z"
+}

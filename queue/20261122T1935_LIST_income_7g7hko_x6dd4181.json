@@ -1,0 +1,40 @@
+{
+  "id": "x6dd4181",
+  "sym": "LIST",
+  "kind": "list",
+  "params": {
+    "theme": "income",
+    "syms": [
+      "AMDW",
+      "PLTW",
+      "XYZY",
+      "COIW",
+      "CONY",
+      "PLTY",
+      "CHPY",
+      "BLOX",
+      "TOPW",
+      "XDTE"
+    ]
+  },
+  "syms": [
+    "AMDW",
+    "PLTW",
+    "XYZY",
+    "COIW",
+    "CONY",
+    "PLTY",
+    "CHPY",
+    "BLOX",
+    "TOPW",
+    "XDTE"
+  ],
+  "yield": 95,
+  "tr": 215,
+  "decay": "NO",
+  "images": 1,
+  "text": "Yearly income from $10,000 in each 👇\n\n1. $AMDW $9,500/yr\n2. PLTW $7,500/yr\n3. XYZY $7,100/yr\n4. COIW $7,000/yr\n5. CONY $6,300/yr\n6. PLTY $5,100/yr\n7. CHPY $4,100/yr\n8. BLOX $3,600/yr\n9. TOPW $3,300/yr\n10. XDTE $2,100/yr\n\nComment down below which ones you hold!",
+  "link": false,
+  "post_at": "2026-11-22T19:35:00.000Z",
+  "created_at": "2026-11-21T17:00:52.494Z"
+}
